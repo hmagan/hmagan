@@ -6,6 +6,6 @@
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmagan&layout=compact&theme=great-gatsby"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmagan&layout=compact&theme=great-gatsby&hide=html"/>
   </a>
  </p>
